@@ -42,9 +42,10 @@ gulp.task('sass', function () {
 // Concat and minify JS
 gulp.task('scripts', function () {
     return gulp.src('js/*.js')
-        .pipe(concat('jjdesign.min.js'))
+        .pipe(concat('morehacks.min.js'))
         .pipe(uglify())
         .pipe(gulp.dest('.'))
+        .pipe(notify({"message": "JS task complete"}));
 });
 
 // Watch files for changes
