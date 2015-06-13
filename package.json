@@ -1,0 +1,25 @@
+{
+  "name": "morehacks",
+  "version": "0.0.1",
+  "description": "Just another WordPress theme",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "node-sass": "^3.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knock--/addmorehacks.com.git"
+  },
+  "author": "Theo Coukoulis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knock--/addmorehacks.com/issues"
+  },
+  "homepage": "https://github.com/knock--/addmorehacks.com#readme"
+}

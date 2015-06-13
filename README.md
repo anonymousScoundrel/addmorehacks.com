@@ -1,2 +1,2 @@
 # addmorehacks.com
-Just another WordPress blog
+Just another WordPress theme
