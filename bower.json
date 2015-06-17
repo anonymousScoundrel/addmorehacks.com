@@ -1,0 +1,21 @@
+{
+  "name": "morehacks",
+  "version": "0.1.1",
+  "homepage": "https://github.com/knock--/addmorehacks.com",
+  "description": "Extras necessary for the theme to work",
+  "authors": [
+    "Theo Coukoulis"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "compass-mixins": "~1.0.2",
+    "bootstrap": "~3.3.5"
+  }
+}

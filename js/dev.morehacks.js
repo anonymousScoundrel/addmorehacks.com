@@ -11,6 +11,5 @@
     };
 
     $(document).ready(function () {
-        $.log("loaded and rocking...");
     });
 }(jQuery, undefined));
