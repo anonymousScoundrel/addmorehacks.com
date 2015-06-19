@@ -1,6 +1,7 @@
 <?php
 
     get_header();
+    get_search_form();
 
     wp_nav_menu(
         array(
