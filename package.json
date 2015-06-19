@@ -1,6 +1,6 @@
 {
   "name": "morehacks",
-  "version": "0.3",
+  "version": "0.3.3",
   "description": "Just another WordPress theme",
   "main": "gulpfile.js",
   "dependencies": {
